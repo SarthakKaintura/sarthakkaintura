@@ -1,3 +1,4 @@
+![logo](https://media.licdn.com/dms/image/v2/D5616AQHn-c0jFHOIfQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733233234723?e=1747872000&v=beta&t=MiNUYWywjerEyLUmMiKRa38VsoZejhYGp31SJE8fBtY)
 <h1 align="center">Hi 👋, I'm Sarthak Kaintura</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
